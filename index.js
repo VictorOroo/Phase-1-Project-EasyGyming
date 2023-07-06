@@ -1,5 +1,5 @@
 // This function  fetches data from the API
-fetch('http://localhost:3000/members')
+fetch('https://easygyming-api.onrender.com/members')
   .then(response => response.json())
   .then(data => {
     const members = data.members;
