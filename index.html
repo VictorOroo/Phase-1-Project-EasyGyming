@@ -1,45 +1,57 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EasyGyming</title>
-    <link rel="stylesheet" href="./styles.css">
+  <title>EasyGyming</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
-
-
 <body>
-    <nav class="navbar">
-        <div class="navdiv">
-          <div class="logo"><a href="#">EasyGyming</a></div>
-          <ul>
-            <li class="nav-item"><a href="#">Home</a></li>
-            <li class="nav-item"><a href=".intro-content">About</a></li>
-            <li class="nav-item"><a href="#">Contact</a></li>
-            <li class="nav-item"><a href="#">Member Information</a></li>
-          </ul>
-        </div>
-      </nav>
-      <div class="intro">
-        <div class="intro-content">
-          <h3>GYM EXERCISE RECOMMENDATION</h3>
-          <p class="first-paragraph">With EasyGyming, you no longer have to worry about creating your own workout plans or routines. Our recommendation system analyzes your fitness level and goals to provide personalized gym plans and routines tailored just for you. Whether you are a beginner, intermediate, or expert, EasyGyming has got you covered. Join us today and experience a smooth fitness journey.</p>
-        </div>
-        <div class="container">
-          <label for="members">Select a Member:</label>
-          <select id="members">
-            <option value="">-- Select Member --</option>
-          </select>
-          <div id="member-details"></div>
-    
-          <div class="search-container">
-            <input type="text" id="level-search" placeholder="Enter level (e.g., beginner, intermediate, expert)">
-            <button id="search-button">Search</button>
-          </div>
-        </div>
+  <nav class="navbar">
+    <div class="navdiv">
+      <div class="logo"><a href="#">EasyGyming</a></div>
+      <ul>
+        <li class="nav-item"><a href="#">Home</a></li>
+        <li class="nav-item"><a href="#">About</a></li>
+        <li class="nav-item"><a href="#">Contact</a></li>
+        <li class="nav-item"><a href="#">Member Information</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  
+    <div class="intro">
+      <div class="intro-content">
+        <h3>GYM EXERCISE RECOMMENDATION</h3>
+        <p class="first-paragraph">With EasyGyming, you no longer have to worry about creating your own workout plans or routines. Our recommendation system analyzes your fitness level and goals to provide personalized gym plans and routines tailored just for you. Whether you are a beginner, intermediate, or expert, EasyGyming has got you covered. Join us today and experience a smooth fitness journey.</p>
       </div>
-      
-        
-    
+    </div>
+
+    <div class="container">
+      <label for="members"><span class="selectmember">Select a Member:</span></label>
+      <select id="members">
+        <option value="">-- Select Member --</option>
+      </select>
+      <div id="member-details"></div>
+
+      <div class="search-container">
+        <input type="text" id="level-search" placeholder="Enter level (e.g., beginner, intermediate, expert)">
+        <button id="search-button">Search</button>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="contactinfo">
+        <span>Email: info@easygymingke.com</span> 
+        <span>Phone: +254 000 0000</span>
+      </div>
+      <div class="sociallinks">
+        <a href="#"><img src="./logos/icons8-facebook.svg" alt="Facebook"></a>
+        <a href="#"><img src="./logos/icons8-twitter (1).svg" alt="Twitter"></a>
+        <a href="#"><img src="./logos/icons8-instagram.svg" alt="Instagram"></a>
+        <a href="#"><img src="./logos/icons8-linkedin.svg" alt="LinkedIn"></a>
+
+      </div>
+    </footer>
+  
+
+  <script src="./index.js"></script>
 </body>
 </html>

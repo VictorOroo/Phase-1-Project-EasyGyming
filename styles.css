@@ -1,69 +1,110 @@
 body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    background-color: burlywood;
-  
-    background-image: url("./images/training-g6cfed1e29_1280.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-  }
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: burlywood;
 
-  * {
-    text-decoration: none;
-  }
+  background-image: url("./images/training-g6cfed1e29_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+
+* {
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: darkolivegreen;
+  font-family: calibri;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.navdiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo a {
+  font-size: 35px;
+  font-weight: 600;
+  color: white;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.nav-item a {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+
+.intro {
+  text-align: center;
+  padding: 20px;
+  margin-top: 10px;
+  background-image: url("");
+}
+
+.intro-content {
+  max-width: 600px;
+  margin: 0 auto;
+  color: white;
+}
+
+.first-paragraph {
+  margin-top: 20px;
+}
+
+.container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
   
-  .navbar {
-    background: crimson;
-    font-family: calibri;
-    padding-right: 15px;
-    padding-left: 15px;
-  }
+}
+#member-details{
+  color: white;
+  border: 2px solid rgb(199, 151, 0, 0.5)
   
-  .navdiv {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  
-  .logo a {
-    font-size: 35px;
-    font-weight: 600;
-    color: white;
-  }
-  
-  .nav-item {
-    display: inline-block;
-    margin-right: 25px;
-  }
-  
-  .nav-item a {
-    color: white;
-    font-size: 18px;
-    font-weight: bold;
-  }
-  
-  .main {
-    flex: 1;
-    display: flex;
-    align-items: flex-start; 
-    justify-content: center;
-    margin-top: 50px; 
-  }
-  
-  .intro {
-    text-align: center;
-    padding: 20px;
-  }
-  
-  .intro-content {
-    max-width: 600px;
-    margin: 0 auto;
-    color: white;
-  }
-  
-  .first-paragraph {
-    margin-top: 20px;
-  }
-  
+
+}
+.selectmember{
+  color: white;
+}
+.footer {
+  background-color:dimgray;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  bottom: 0;
+}
+
+.contactinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.contactinfo span{
+  margin-bottom: 5px;
+}
+.sociallinks{
+  margin-left: auto;
+}
+.sociallinks a {
+  margin-right: 10px;
+}
