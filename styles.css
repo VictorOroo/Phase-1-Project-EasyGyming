@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: burlywood;
+  
+    background-image: url("./images/training-g6cfed1e29_1280.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
