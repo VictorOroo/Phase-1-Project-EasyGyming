@@ -42,7 +42,44 @@ EasyGyming website application offers the following features:
 -Member Dropdown: The application displays a dropdown menu listing all the gym members.
 users can select a member from the dropdown to view their details and exercises for the week.
 
--Level Search: Users can see their fellow members who are on the same level of training and then get to train together therefore building a community that works together.
+-Level Search: Users can see their fellow members who are on the same level of training and then get 
+to train together therefore building a community that works together.
+
+## Usage
+Once the application is running, follow these instructions to use its features:
+
+1. Select a member: Use the dropdown menu to select a member from the list.
+2. View Member Details: After selecting a member,Their details will be displayed, including their name, membership ID and their membership plans.
+3. Viewing fellow level members: A user can see all the members in a specific level by searching it on the search area.
+
+
+## Support and contact details 🙂
+
+To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
+
+- Email: victor.oroo@student.moringaschool.com
 
 #### Live link to view the project  https://victororoo.github.io/Phase-1-Project-EasyGyming/
+
+## License
+
+Copyright (c) 2022 Victor Oroo.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files , to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
