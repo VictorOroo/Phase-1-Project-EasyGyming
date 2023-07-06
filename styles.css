@@ -9,4 +9,61 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
   }
+
+  * {
+    text-decoration: none;
+  }
+  
+  .navbar {
+    background: crimson;
+    font-family: calibri;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  .navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo a {
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+  }
+  
+  .nav-item {
+    display: inline-block;
+    margin-right: 25px;
+  }
+  
+  .nav-item a {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .main {
+    flex: 1;
+    display: flex;
+    align-items: flex-start; 
+    justify-content: center;
+    margin-top: 50px; 
+  }
+  
+  .intro {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .intro-content {
+    max-width: 600px;
+    margin: 0 auto;
+    color: white;
+  }
+  
+  .first-paragraph {
+    margin-top: 20px;
+  }
   
