@@ -1,0 +1,160 @@
+{
+    "members": [
+      {
+        "memberId": 1,
+        "name": "Victor Oroo",
+        "gender": "Male",
+        "level": "beginner",
+        "membership": [
+          {
+            "plan": "monthly",
+            "fee": 5000
+          },
+          {
+            "plan": "daily",
+            "fee": 600
+          }
+        ],
+        "image": "",
+        "exercises": {
+          "Monday": ["Light Cardio", "Gentle Yoga"],
+          "Tuesday": ["Barbell Push Press (6 reps x 4 sets)", "Goblet Squat (6 reps x 4 sets)"],
+          "Wednesday": ["Rest"],
+          "Thursday": ["Light Cardio", "Gentle Yoga"],
+          "Friday": ["Dumbbell Single Arm Row (6 reps x 4 sets)", "Shoulder Lateral Raise (6 reps x 4 sets)"],
+          "Saturday": ["Bench Press (6 reps x 4 sets)", "Pull Ups/Assisted Pull Ups (6 reps x 4 sets)"],
+          "Sunday": ["Barbell Bicep Curls (8 reps x 4 sets)", "Rest"]
+        }
+      },
+      {
+        "memberId": 2,
+        "name": "Janet wanjiru",
+        "gender": "Female",
+        "level": "beginner",
+        "membership": [
+          {
+            "plan": "monthly",
+            "fee": 5000
+          },
+          {
+            "plan": "daily",
+            "fee": 600
+          }
+        ],
+        "image": "",
+        "exercises": {
+          "Monday": ["Light Cardio", "Gentle Yoga"],
+          "Tuesday": ["Barbell Push Press (6 reps x 4 sets)", "Goblet Squat (6 reps x 4 sets)"],
+          "Wednesday": ["Rest"],
+          "Thursday": ["Light Cardio", "Gentle Yoga"],
+          "Friday": ["Dumbbell Single Arm Row (6 reps x 4 sets)", "Shoulder Lateral Raise (6 reps x 4 sets)"],
+          "Saturday": ["Bench Press (6 reps x 4 sets)", "Pull Ups/Assisted Pull Ups (6 reps x 4 sets)"],
+          "Sunday": ["Barbell Bicep Curls (8 reps x 4 sets)", "Rest"]
+        }
+      },
+      {
+        "memberId": 3,
+        "name": "David Bahati",
+        "gender": "Male",
+        "level": "intermediate",
+        "membership": [
+          {
+            "plan": "monthly",
+            "fee": 7500
+          },
+          {
+            "plan": "daily",
+            "fee": 800
+          }
+        ],
+        "image": "",
+        "exercises": {
+          "Monday": ["Light Cardio", "Pilates"],
+          "Tuesday": ["Strength Training", "CrossFit"],
+          "Wednesday": ["Pilates", "Yoga"],
+          "Thursday": ["Light Cardio", "Pilates"],
+          "Friday": ["Dumbbell Single Arm Row (6 reps x 4 sets)", "Shoulder Lateral Raise (6 reps x 4 sets)"],
+          "Saturday": ["Bench Press (6 reps x 4 sets)", "Pull Ups/Assisted Pull Ups (6 reps x 4 sets)"],
+          "Sunday": ["Barbell Bicep Curls (8 reps x 4 sets)", "Rest"]
+        }
+      },
+      {
+        "memberId": 4,
+        "name": "Mary Wangeci",
+        "gender": "Female",
+        "level": "intermediate",
+        "membership": [
+          {
+            "plan": "monthly",
+            "fee": 7500
+          },
+          {
+            "plan": "daily",
+            "fee": 800
+          }
+        ],
+        "image": "",
+        "exercises": {
+          "Monday": ["Light Cardio", "Pilates"],
+          "Tuesday": ["Strength Training", "CrossFit"],
+          "Wednesday": ["Pilates", "Yoga"],
+          "Thursday": ["Light Cardio", "Pilates"],
+          "Friday": ["Dumbbell Single Arm Row (6 reps x 4 sets)", "Shoulder Lateral Raise (6 reps x 4 sets)"],
+          "Saturday": ["Bench Press (6 reps x 4 sets)", "Pull Ups/Assisted Pull Ups (6 reps x 4 sets)"],
+          "Sunday": ["Barbell Bicep Curls (8 reps x 4 sets)", "Rest"]
+        }
+      },
+      {
+        "memberId": 5,
+        "name": "Alex Ombati",
+        "gender": "Male",
+        "level": "expert",
+        "membership": [
+          {
+            "plan": "monthly",
+            "fee": 10000
+          },
+          {
+            "plan": "daily",
+            "fee": 1000
+          }
+        ],
+        "image": "",
+        "exercises": {
+          "Monday": ["Cardio", "Strength Training"],
+          "Tuesday": ["CrossFit", "Rest"],
+          "Wednesday": ["Cardio", "Strength Training"],
+          "Thursday": ["CrossFit", "Rest"],
+          "Friday": ["Cardio", "Strength Training"],
+          "Saturday": ["CrossFit", "Rest"],
+          "Sunday": ["Cardio", "Rest"]
+        }
+      },
+      {
+        "memberId": 6,
+        "name": "Isabella Kemunto",
+        "gender": "Female",
+        "level": "expert",
+        "membership": [
+          {
+            "plan": "monthly",
+            "fee": 10000
+          },
+          {
+            "plan": "daily",
+            "fee": 1000
+          }
+        ],
+        "image": "",
+        "exercises": {
+          "Monday": ["Cardio", "Strength Training"],
+          "Tuesday": ["CrossFit", "Rest"],
+          "Wednesday": ["Cardio", "Strength Training"],
+          "Thursday": ["CrossFit", "Rest"],
+          "Friday": ["Cardio", "Strength Training"],
+          "Saturday": ["CrossFit", "Rest"],
+          "Sunday": ["Cardio", "Rest"]
+        }
+      }
+    ]
+  }
