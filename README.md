@@ -52,7 +52,7 @@ Once the application is running, follow these instructions to use its features:
 2. View Member Details: After selecting a member,Their details will be displayed, including their name, membership ID and their membership plans.
 3. Viewing fellow level members: A user can see all the members in a specific level by searching it on the search area.
 
-## Screenshots Of the Figma Design
+## Screenshots Of the EasyGyming Website
 
 - Dropdown menu
 
