@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded' , () => {
 // This function  fetches data from the API
 fetch('https://easygyming-api.onrender.com/members')
   .then(response => response.json())
@@ -85,3 +86,4 @@ fetch('https://easygyming-api.onrender.com/members')
       }
     }
   });
+});
