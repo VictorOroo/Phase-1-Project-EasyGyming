@@ -3,7 +3,7 @@
 
 ## Description
 
-- Welcome to EasyGyming website application.This website is designed to retrieve members details and provide an easy interface for managing their details and give them a proper workout plan which considers their level of training.(Beginner, Intermediate, Expet).
+- Welcome to EasyGyming website application.This website is designed to retrieve members details and provide an easy interface for managing their details and give them a proper workout plan which considers their level of training.(Beginner, Intermediate, Expert).
 
 ## Setup Requirements
 
